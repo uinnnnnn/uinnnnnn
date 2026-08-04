@@ -37,10 +37,14 @@ https://gist.github.com/uinnnnnn
    <div align="left"> 
      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&exclude_repo=cf-stats&theme=transparent">
    </div>
-  <div>
-    <img align="right" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Uni_015&layout=compact&theme=transparent&hide=Perl,Other">
+  <div align="right">
+  
   </div>
 </div>
+
+## ⏱️ Weekly Coding Activity
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 ## Streak Stats🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uinnnnnn)](https://git.io/streak-stats)
