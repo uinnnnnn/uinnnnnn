@@ -4,15 +4,13 @@ on:
   schedule:
     - cron: '15 */12 * * *'
   workflow_dispatch:
-
+  
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # 確保 Action 有權限能把數據寫回你的 README
     steps:
-      - uses: athul/waka-readme@master
+      - uses: miermontoto/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
