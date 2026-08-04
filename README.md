@@ -7,8 +7,6 @@ https://gist.github.com/uinnnnnn
 
 ## My GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=uinnnnnn&show_icons=true&count_private=true)
-
 ## Languages
 
 ![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,14 +31,14 @@ https://gist.github.com/uinnnnnn
 - medium:<a href="https://medium.com/@sumi143yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sumi143yy" height="30" width="40" /></a>
 
 
-<div>
+<!-- <div>
    <div align="left"> 
      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinnnnnn&exclude_repo=cf-stats&theme=transparent">
    </div>
   <div align="right">
   
   </div>
-</div>
+</div> -->
 
 ## ⏱️ Weekly Coding Activity
 <!-- START_SECTION:waka -->
