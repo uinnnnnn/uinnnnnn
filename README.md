@@ -1,11 +1,11 @@
 I am Yingru-Lin Lin,from Taiwan
 
-我是林映如，來自台灣
-
 ## GitHub Gists
 https://gist.github.com/uinnnnnn
 
-## My GitHub Stats
+<!-- ## My GitHub Stats -->
+## My Medium
+https://medium.com/@sumi143yy
 
 ## Languages
 
