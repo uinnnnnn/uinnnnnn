@@ -4,8 +4,6 @@ I am Yingru-Lin Lin,from Taiwan
 https://gist.github.com/uinnnnnn
 
 <!-- ## My GitHub Stats -->
-## My Medium
-https://medium.com/@sumi143yy
 
 ## Languages
 
@@ -28,7 +26,7 @@ https://medium.com/@sumi143yy
 ### 📫 How to reach me:
 
 - email: sumi143yy@gmail.com
-- medium:<a href="https://medium.com/@sumi143yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sumi143yy" height="30" width="40" /></a>
+- medium: https://medium.com/@sumi143yy
 
 
 <!-- <div>
